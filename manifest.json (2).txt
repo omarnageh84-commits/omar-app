@@ -1,0 +1,17 @@
+{
+  "name": "نظام - Nizam Accounting",
+  "short_name": "Nizam",
+  "description": "نظام المحاسبة اليومية والحضور - 6 خانات صف واحد، فواصل آلاف، ثيم فقط",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0a1f1f",
+  "theme_color": "#0a1f1f",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
